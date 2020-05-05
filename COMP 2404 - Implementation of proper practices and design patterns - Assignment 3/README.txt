@@ -1,4 +1,4 @@
-Author: Kareem Tantawy, 101083898
+Author: Kareem Tantawy
 
 Program:
 	You can check in and out books from an initialised collection. In addition, These books will be recorded in an observer class called CheckedInLogger or CheckedOutLogger which will update a collection
